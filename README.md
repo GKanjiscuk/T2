@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento da Pet Lovers com Interface Gráfica
 
-Atividade Avaliativa 3 - Pet Lovers 3
+Atividade Avaliativa 2 - Pet Lovers 2
 Este projeto é apenas uma simulação no frontend utilizando componentes de CLASSE no React, sem integração com backend.
 
 ## Tecnologias utilizadas
